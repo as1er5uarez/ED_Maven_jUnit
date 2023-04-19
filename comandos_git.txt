@@ -1,0 +1,21 @@
+git clon [url] --> clonar repositorio
+cat [archivo] --> mostrar contenido de archivo
+git status --> ver si permite seguimiento
+git add [archivo]--> agregar archivo
+	git add . --> agregar todos los archivos que este en ese nivel
+git commit -m "[mensaje con sentido]" --> Hacer commit con mensaje
+git push [] [] --> Push
+git branch dev --> crea la rama dev
+git checkout [] --> cambia a la rama indicada
+	git checkout -- [archivo]--> Deshacer los cambios para volver a la version anterior
+git branch --> te muestra las ramas
+	git branch [nombre]--> Crea las ramas
+	git branch -av --> Te muestra las ramas del repositorio
+git merge
+git init --> Inicializa un directorio con un .git
+git diff --> Muestra la diferencia entre los cambios actuales y lo guardado 
+git show --> Mostrar cambios
+git log --> Mostrar historial de cambios
+	git log --graph --all --oneline --> Mostrar la historia del repositorio mostrando todas las ramas
+git annotate --> Motrar quien a hecho modificaciones
+git reset--> Deshacer los cambios guardados en la zona de intercambio temporal

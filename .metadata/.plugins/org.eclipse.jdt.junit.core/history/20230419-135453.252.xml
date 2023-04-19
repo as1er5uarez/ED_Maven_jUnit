@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EurosConversorTest" project="EurosConversor" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="conversor.EurosConversorTest" time="0.0">
+    <testcase name="testPesetas2Euros" classname="conversor.EurosConversorTest" time="0.0"/>
+    <testcase name="testEuros2Pesetas" classname="conversor.EurosConversorTest" time="0.0"/>
+  </testsuite>
+</testrun>
