@@ -519,3 +519,740 @@
 2023-04-19 13:58:18,324 [Worker-60: Launching java (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-04-19 13:58:18,326 [Worker-60: Launching java (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-04-19 13:58:18,328 [Worker-60: Launching java (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:43:49,922 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-03 12:47:28,817 [Worker-7: Creating project "ed23_ud_12_junit_robot"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:ed23_ud_12_junit_robot:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\ed23_ud_12_junit_robot\pom.xml.
+2023-05-03 12:47:29,145 [Worker-7: Creating project "ed23_ud_12_junit_robot"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ed23_ud_12_junit_robot/src/main/java
+2023-05-03 12:47:29,147 [Worker-7: Creating project "ed23_ud_12_junit_robot"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ed23_ud_12_junit_robot/src/main/resources
+2023-05-03 12:47:29,148 [Worker-7: Creating project "ed23_ud_12_junit_robot"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ed23_ud_12_junit_robot/src/test/java
+2023-05-03 12:47:29,148 [Worker-7: Creating project "ed23_ud_12_junit_robot"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ed23_ud_12_junit_robot/src/test/resources
+2023-05-03 12:47:29,791 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:47:29,795 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:47:29,798 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:47:29,799 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:48:39,065 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:48:39,075 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:48:39,078 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:48:39,080 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:49:17,421 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:49:17,423 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:49:17,425 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:49:17,427 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:58:05,764 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:58:05,767 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:58:05,769 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:58:05,771 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:58:51,214 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:58:51,215 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 12:58:51,217 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 12:58:51,218 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:00:23,347 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:00:23,349 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:00:23,352 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:00:23,355 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:00:48,205 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:00:48,208 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:00:48,210 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:00:48,212 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:01:42,810 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:01:42,811 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:01:42,816 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:01:42,818 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:13:18,778 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:13:18,780 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:13:18,782 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:13:18,784 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:15:28,962 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:ed23_ud_12_junit_robot:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\ed23_ud_12_junit_robot\pom.xml.
+2023-05-03 13:15:29,066 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:15:29,068 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:15:29,071 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:15:29,072 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:15:30,172 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2-sources.jar
+2023-05-03 13:15:30,224 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2-sources.jar
+2023-05-03 13:15:30,227 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.8.2
+2023-05-03 13:15:30,318 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2023-05-03 13:15:30,352 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2023-05-03 13:15:30,355 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.2.0
+2023-05-03 13:15:30,424 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2-sources.jar
+2023-05-03 13:15:30,463 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2-sources.jar
+2023-05-03 13:15:30,466 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.8.2
+2023-05-03 13:15:30,539 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2023-05-03 13:15:30,583 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar
+2023-05-03 13:15:30,586 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.2
+2023-05-03 13:17:25,357 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [274])
+2023-05-03 13:17:25,365 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-03 13:17:25,366 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-03 13:17:25,366 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-03 13:17:25,366 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-03 13:17:25,366 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-03 13:17:25,366 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-03 13:17:25,367 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-03 13:17:25,368 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-03 13:17:25,369 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-03 13:17:25,370 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-03 13:17:25,370 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-03 13:17:25,371 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-03 13:17:25,372 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-03 13:17:25,372 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [442])
+2023-05-03 13:17:25,373 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-05-03 13:17:25,373 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-03 13:17:25,375 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-03 13:17:25,375 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-03 13:17:25,376 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-03 13:17:25,376 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-03 13:17:25,377 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-03 13:17:25,377 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-03 13:17:25,378 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-03 13:17:25,381 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\ed23_ud_12_junit_robot":
+2023-05-03 13:17:25,385 [Worker-37: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-03 13:18:31,494 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:31,496 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:18:31,497 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:31,498 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:18:44,322 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:44,323 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:18:44,325 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:44,326 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:18:47,378 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:47,380 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:18:47,382 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:18:47,384 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:22:25,517 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.jar
+2023-05-03 13:22:25,552 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.jar
+2023-05-03 13:22:25,715 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:ed23_ud_12_junit_robot:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\ed23_ud_12_junit_robot\pom.xml.
+2023-05-03 13:22:25,811 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 13:22:25,812 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:22:25,816 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 13:22:25,816 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:22:25,834 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.pom
+2023-05-03 13:22:25,854 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.0/maven-surefire-plugin-2.22.0.pom
+2023-05-03 13:22:25,881 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.0/surefire-2.22.0.pom
+2023-05-03 13:22:25,902 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.0/surefire-2.22.0.pom
+2023-05-03 13:22:25,926 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/31/maven-parent-31.pom
+2023-05-03 13:22:25,949 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/31/maven-parent-31.pom
+2023-05-03 13:22:25,968 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2023-05-03 13:22:25,995 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2023-05-03 13:22:26,811 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1-sources.jar
+2023-05-03 13:22:26,850 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1-sources.jar
+2023-05-03 13:22:26,852 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.3.1
+2023-05-03 13:22:26,916 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0-sources.jar
+2023-05-03 13:22:26,945 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0-sources.jar
+2023-05-03 13:22:26,949 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.0.0
+2023-05-03 13:22:27,020 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1-sources.jar
+2023-05-03 13:22:27,064 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1-sources.jar
+2023-05-03 13:22:27,067 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.3.1
+2023-05-03 13:22:27,124 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1-sources.jar
+2023-05-03 13:22:27,159 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1-sources.jar
+2023-05-03 13:22:27,162 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.3.1
+2023-05-03 13:22:27,247 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1-sources.jar
+2023-05-03 13:22:27,274 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1-sources.jar
+2023-05-03 13:22:27,277 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.1.1
+2023-05-03 13:22:27,346 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1-sources.jar
+2023-05-03 13:22:27,393 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1-sources.jar
+2023-05-03 13:22:27,396 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.3.1
+2023-05-03 13:22:46,523 [Worker-46: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\ed23_ud_12_junit_robot":
+2023-05-03 13:22:46,523 [Worker-46: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_ed23_ud_12_junit_robot] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-03 13:28:27,370 [Worker-46: Creating project "GeneradorIp"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:GeneradorIp:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-03 13:28:27,550 [Worker-46: Creating project "GeneradorIp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneradorIp/src/main/java
+2023-05-03 13:28:27,551 [Worker-46: Creating project "GeneradorIp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GeneradorIp/src/main/resources
+2023-05-03 13:28:27,551 [Worker-46: Creating project "GeneradorIp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneradorIp/src/test/java
+2023-05-03 13:28:27,551 [Worker-46: Creating project "GeneradorIp"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GeneradorIp/src/test/resources
+2023-05-03 13:28:27,854 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:28:27,855 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:28:27,857 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:28:27,859 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:28:52,806 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:28:52,807 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:28:52,810 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:28:52,811 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:29:19,624 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:29:19,626 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:29:19,629 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:29:19,631 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:43:36,142 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:43:36,144 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:43:36,145 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:43:36,146 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:44:33,718 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:44:33,720 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:44:33,721 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:44:33,722 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:45:21,346 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:45:21,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:45:21,350 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:45:21,352 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:45:45,162 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:45:45,164 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 13:45:45,167 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-03 13:45:45,169 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 14:18:54,951 [Worker-60: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </properties> must match start tag name <project> from line 1 (position: TEXT seen ...</version>\r\n\t</properties>... @8:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </properties> must match start tag name <project> from line 1 (position: TEXT seen ...</version>\r\n\t</properties>... @8:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2072)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-05-03 14:21:16,376 [Worker-60: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3)  @ line 36, column 3
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3)  @ line 36, column 3
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$20(ProjectRegistryManager.java:902)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:898)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:708)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1028)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-03 14:21:16,483 [Worker-57: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEpilog(MXParser.java:1955)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1696)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3876)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-05-03 14:21:27,165 [Worker-61: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3)  @ line 36, column 3
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3)  @ line 36, column 3
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$20(ProjectRegistryManager.java:902)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:898)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:708)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1028)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-03 14:21:32,026 [Worker-57: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:585)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag not allowed in epilog but got / (position: END_TAG seen ...</build>\r\n</project>\r\n</... @36:3) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEpilog(MXParser.java:1955)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1696)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3876)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-05-03 14:22:08,036 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:GeneradorIp:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-03 14:22:08,091 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 14:22:08,091 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 14:22:08,093 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 14:22:08,093 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 14:22:16,872 [Worker-64: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp":
+2023-05-03 14:22:16,873 [Worker-64: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-03 14:22:42,657 [Worker-61: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp":
+2023-05-03 14:22:42,657 [Worker-61: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-03 14:23:38,374 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:GeneradorIp:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-03 14:23:38,424 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 14:23:38,425 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 14:23:38,428 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 14:23:38,428 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 14:23:52,295 [Worker-60: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp":
+2023-05-03 14:23:52,295 [Worker-60: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-03 14:23:52,295 [Worker-60: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-05-04 10:06:15,806 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cuatrovientos.examen.ed:ed19Ev03Examen_NauFrago:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-04 10:06:15,902 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-04 10:06:15,902 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-04 10:06:15,906 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-04 10:06:15,906 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-05 20:00:52,808 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-05 20:03:18,729 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cuatrovientos.examen.ed:ed19Ev03Examen_NauFrago:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-05 20:03:19,177 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-05 20:03:19,177 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-05 20:03:19,187 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-05 20:03:19,187 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:46:42,560 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-08 21:47:36,262 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-08 21:47:56,869 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:47:56,879 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:47:56,886 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:47:56,889 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:47:57,178 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:47:57,180 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:47:57,182 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:47:57,185 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:47:57,761 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2023-05-08 21:47:57,804 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2023-05-08 21:47:57,831 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2023-05-08 21:47:57,896 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2023-05-08 21:47:57,926 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2023-05-08 21:47:57,946 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2023-05-08 21:47:57,969 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+2023-05-08 21:47:57,989 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+2023-05-08 21:47:58,017 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2023-05-08 21:47:58,039 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2023-05-08 21:47:58,067 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2023-05-08 21:47:58,092 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2023-05-08 21:47:58,117 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2023-05-08 21:47:58,134 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2023-05-08 21:47:58,156 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2023-05-08 21:47:58,202 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2023-05-08 21:47:58,227 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2023-05-08 21:47:58,246 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2023-05-08 21:47:58,264 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2023-05-08 21:47:58,283 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2023-05-08 21:47:58,303 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2023-05-08 21:47:58,329 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2023-05-08 21:47:58,357 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2023-05-08 21:47:58,378 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2023-05-08 21:47:58,420 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2023-05-08 21:47:58,440 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2023-05-08 21:47:58,468 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2023-05-08 21:47:58,486 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+2023-05-08 21:47:58,505 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2023-05-08 21:47:58,524 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+2023-05-08 21:47:58,565 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2023-05-08 21:47:58,591 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2023-05-08 21:47:58,630 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2023-05-08 21:47:58,652 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2023-05-08 21:47:58,675 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2023-05-08 21:47:58,697 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2023-05-08 21:47:58,727 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2023-05-08 21:47:58,748 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2023-05-08 21:47:58,764 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2023-05-08 21:47:58,790 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2023-05-08 21:47:58,844 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2023-05-08 21:47:58,867 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2023-05-08 21:47:58,892 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2023-05-08 21:47:58,917 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2023-05-08 21:47:58,939 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2023-05-08 21:47:58,958 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2023-05-08 21:47:58,993 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2023-05-08 21:47:59,018 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2023-05-08 21:47:59,070 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2023-05-08 21:47:59,095 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2023-05-08 21:47:59,117 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2023-05-08 21:47:59,138 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2023-05-08 21:47:59,178 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2023-05-08 21:47:59,200 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2023-05-08 21:47:59,220 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2023-05-08 21:47:59,238 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2023-05-08 21:47:59,263 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2023-05-08 21:47:59,290 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2023-05-08 21:47:59,314 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2023-05-08 21:47:59,335 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2023-05-08 21:47:59,357 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2023-05-08 21:47:59,378 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2023-05-08 21:47:59,401 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2023-05-08 21:47:59,422 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.pom
+2023-05-08 21:47:59,438 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom
+2023-05-08 21:47:59,456 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom
+2023-05-08 21:47:59,485 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2023-05-08 21:47:59,509 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2023-05-08 21:47:59,532 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2023-05-08 21:47:59,561 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2023-05-08 21:47:59,580 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2023-05-08 21:47:59,601 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2023-05-08 21:47:59,731 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2023-05-08 21:47:59,751 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2023-05-08 21:47:59,772 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2023-05-08 21:47:59,801 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2023-05-08 21:47:59,862 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2023-05-08 21:47:59,887 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2023-05-08 21:47:59,920 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2023-05-08 21:47:59,943 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2023-05-08 21:47:59,969 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2023-05-08 21:47:59,988 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2023-05-08 21:48:00,013 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2023-05-08 21:48:00,048 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2023-05-08 21:48:00,070 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2023-05-08 21:48:00,096 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2023-05-08 21:48:00,120 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2023-05-08 21:48:00,139 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2023-05-08 21:48:00,164 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2023-05-08 21:48:00,186 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2023-05-08 21:48:00,208 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2023-05-08 21:48:00,243 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2023-05-08 21:48:00,267 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2023-05-08 21:48:00,287 [Worker-21: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2023-05-08 21:48:00,321 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2023-05-08 21:48:00,321 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2023-05-08 21:48:00,361 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2023-05-08 21:48:00,361 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2023-05-08 21:48:00,361 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2023-05-08 21:48:00,394 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2023-05-08 21:48:00,394 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2023-05-08 21:48:00,406 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2023-05-08 21:48:00,422 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2023-05-08 21:48:00,424 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2023-05-08 21:48:00,425 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2023-05-08 21:48:00,431 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2023-05-08 21:48:00,434 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2023-05-08 21:48:00,454 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2023-05-08 21:48:00,456 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2023-05-08 21:48:00,458 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2023-05-08 21:48:00,461 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2023-05-08 21:48:00,476 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2023-05-08 21:48:00,478 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2023-05-08 21:48:00,486 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2023-05-08 21:48:00,488 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2023-05-08 21:48:00,488 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2023-05-08 21:48:00,516 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2023-05-08 21:48:00,518 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2023-05-08 21:48:00,518 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2023-05-08 21:48:00,519 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2023-05-08 21:48:00,528 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2023-05-08 21:48:00,535 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2023-05-08 21:48:00,538 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2023-05-08 21:48:00,539 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2023-05-08 21:48:00,546 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2023-05-08 21:48:00,548 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2023-05-08 21:48:00,594 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2023-05-08 21:48:00,595 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2023-05-08 21:48:00,603 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2023-05-08 21:48:00,611 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2023-05-08 21:48:00,613 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2023-05-08 21:48:00,627 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2023-05-08 21:48:00,630 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2023-05-08 21:48:00,630 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2023-05-08 21:48:00,641 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2023-05-08 21:48:00,645 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+2023-05-08 21:48:00,653 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2023-05-08 21:48:00,656 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2023-05-08 21:48:00,659 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar
+2023-05-08 21:48:00,666 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2023-05-08 21:48:00,687 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2023-05-08 21:48:00,689 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2023-05-08 21:48:00,689 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2023-05-08 21:48:00,689 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2023-05-08 21:48:00,705 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2023-05-08 21:48:00,716 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2023-05-08 21:48:00,716 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2023-05-08 21:48:00,721 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2023-05-08 21:48:00,737 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2023-05-08 21:48:00,738 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2023-05-08 21:48:00,867 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:ed_ud12_junit_generadorIP:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-08 21:48:00,981 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:48:00,984 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:00,986 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:48:00,988 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:01,106 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-08 21:48:01,107 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:01,110 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-08 21:48:01,111 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:01,210 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-08 21:48:01,593 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.ed:ed_ud12_junit_generadorIP:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp\pom.xml.
+2023-05-08 21:48:01,708 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneradorIp/src/main/java
+2023-05-08 21:48:01,709 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GeneradorIp/src/main/resources
+2023-05-08 21:48:01,710 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneradorIp/src/test/java
+2023-05-08 21:48:01,710 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GeneradorIp/src/test/resources
+2023-05-08 21:48:02,105 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-05-08 21:48:02,363 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:48:02,365 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:02,371 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-08 21:48:02,373 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-08 21:48:12,414 [Worker-3: Launching GeneradorIpTest] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2023-05-08 21:48:12,457 [Worker-3: Launching GeneradorIpTest] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+2023-05-08 21:48:46,701 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [274])
+2023-05-08 21:48:46,719 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-08 21:48:46,720 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-08 21:48:46,721 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-08 21:48:46,722 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-08 21:48:46,722 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-08 21:48:46,722 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-08 21:48:46,723 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-08 21:48:46,723 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-08 21:48:46,723 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-08 21:48:46,723 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-08 21:48:46,725 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-08 21:48:46,726 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-08 21:48:46,727 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-08 21:48:46,727 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-08 21:48:46,727 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-08 21:48:46,727 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-08 21:48:46,728 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-08 21:48:46,728 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-08 21:48:46,728 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-08 21:48:46,728 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-08 21:48:46,729 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-08 21:48:46,729 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-08 21:48:46,730 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-08 21:48:46,731 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-08 21:48:46,731 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [442])
+2023-05-08 21:48:46,733 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-05-08 21:48:46,733 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-08 21:48:46,734 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-08 21:48:46,734 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-08 21:48:46,736 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-08 21:48:46,736 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-08 21:48:46,738 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-08 21:48:46,738 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-08 21:48:46,740 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-08 21:48:46,744 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\GeneradorIp":
+2023-05-08 21:48:46,745 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-08 21:48:46,745 [Worker-19: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_GeneradorIp] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-05-16 19:36:16,522 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-16 20:40:49,076 [Worker-21: Creating project "Factura"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.repaso2:Factura:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\Factura\pom.xml.
+2023-05-16 20:40:49,412 [Worker-21: Creating project "Factura"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Factura/src/main/java
+2023-05-16 20:40:49,414 [Worker-21: Creating project "Factura"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Factura/src/main/resources
+2023-05-16 20:40:49,415 [Worker-21: Creating project "Factura"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Factura/src/test/java
+2023-05-16 20:40:49,415 [Worker-21: Creating project "Factura"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Factura/src/test/resources
+2023-05-16 20:40:49,876 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:40:49,880 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:40:49,883 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:40:49,884 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:41:25,136 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:41:25,142 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:41:25,145 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:41:25,147 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:44:13,371 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:44:13,374 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:44:13,377 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:44:13,379 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:44:33,299 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:44:33,303 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:44:33,306 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:44:33,307 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:53:15,396 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:53:15,399 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:53:15,401 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:53:15,403 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:57:08,420 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:57:08,423 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:57:08,426 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:57:08,428 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:57:09,500 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:57:09,501 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:57:09,504 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:57:09,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:22,805 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:22,807 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:22,811 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:22,813 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:37,519 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:37,524 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:37,528 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:37,531 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:45,396 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:45,398 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 20:59:45,401 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 20:59:45,404 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:09:36,556 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:09:36,558 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:09:36,559 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:09:36,561 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:13:09,919 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:13:09,920 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:13:09,923 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:13:09,924 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:13:16,857 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:13:16,859 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:13:16,861 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:13:16,863 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:15:03,491 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:15:03,493 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:15:03,494 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:15:03,496 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:17:06,324 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:17:06,331 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:17:06,334 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-16 21:17:06,336 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:19:15,265 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.cuatrovientos.repaso2:Factura:0.0.1-SNAPSHOT @ C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\Factura\pom.xml.
+2023-05-16 21:19:15,394 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 21:19:15,396 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:19:15,408 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 21:19:15,409 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-16 21:19:42,764 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [274])
+2023-05-16 21:19:42,768 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-16 21:19:42,769 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-16 21:19:42,769 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-16 21:19:42,769 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-16 21:19:42,770 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-16 21:19:42,771 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-16 21:19:42,772 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-16 21:19:42,772 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-16 21:19:42,772 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-16 21:19:42,772 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-16 21:19:42,773 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-16 21:19:42,774 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-16 21:19:42,776 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-16 21:19:42,777 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-16 21:19:42,777 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [442])
+2023-05-16 21:19:42,778 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-05-16 21:19:42,778 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-16 21:19:42,779 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-16 21:19:42,779 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-16 21:19:42,780 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-16 21:19:42,780 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-16 21:19:42,781 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-16 21:19:42,782 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-16 21:19:42,783 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\asuar\Documents\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-16 21:19:42,788 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\Factura":
+2023-05-16 21:19:42,791 [Worker-25: Launching Executing install in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-16 21:20:03,284 [Worker-25: Launching Executing test in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\asuar\OneDrive\Documentos\Carpetas\ED_3EV\workspace\Factura":
+2023-05-16 21:20:03,284 [Worker-25: Launching Executing test in C__Users_asuar_OneDrive_Documentos_Carpetas_ED_3EV_workspace_Factura] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always test
