@@ -1,4 +1,4 @@
-package org.cuatrovientos.ed;
+package org.cuatrovientos.repaso4;
 
 /**
  * @author asuar
